@@ -1,5 +1,4 @@
-import argparse, os, glob
-
+import os
 try:
   from PIL import Image
 except ImportError:
